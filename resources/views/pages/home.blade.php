@@ -1,4 +1,4 @@
-@extends('index')
+@extends('pages.master')
 
 @section('title')
 <title>
