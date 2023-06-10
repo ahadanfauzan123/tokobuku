@@ -117,12 +117,12 @@
         <div class="row">
 
             <div class="col-md-6 col-sm-6 col-xs-12 mts-custom-sec-text wow bounceInRight">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa sit, numquam amet voluptatibus obcaecati ea maiores totam nostrum, ad iure rerum quas harum ipsum. Rem ea ducimus quos quae quo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, alias illum quia. Sequi et debitis at quibusdam modi alias, voluptatibus porro similique consectetur dolore, neque minus molestiae dolorum ut earum!</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium quae suscipit similique ab sunt. Similique ab tempora, aperiam quia, voluptate totam est ullam aliquam, enim corporis quam tempore molestias aspernatur! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis iure perspiciatis explicabo architecto omnis voluptas delectus labore, maxime dignissimos! Repellat deleniti atque nisi ipsam tempora. Quo eum, nulla dicta dolores!</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, ut. Perferendis iure quisquam illum eligendi voluptas. Autem nostrum officiis nulla dicta eaque tempore sint, voluptas, minima molestias cum et quas.</p>
+                <p>Selamat datang di toko buku berbasis website kami! Kami adalah tujuan utama Anda untuk menemukan dan membeli berbagai jenis buku secara online. Dengan kombinasi antara kenyamanan belanja online dan kekayaan pilihan buku, kami bertujuan untuk memberikan pengalaman belanja yang menyenangkan dan memuaskan kepada pelanggan kami.</p>
+                <p>Di toko buku kami, Anda akan menemukan beragam koleksi buku yang mencakup berbagai genre dan topik. Baik Anda pencinta fiksi, penggemar nonfiksi, pecinta sastra klasik, penggemar novel grafis, atau penggemar buku anak-anak, kami memiliki sesuatu untuk setiap minat dan usia. Kami bekerja sama dengan penerbit terkemuka dan penulis terkenal untuk memastikan bahwa koleksi buku kami selalu mutakhir dan mencakup berbagai macam karya yang berkualitas.</p>
+                <p>Dalam menjelajahi toko buku online kami, Anda akan menemukan antarmuka yang intuitif dan ramah pengguna. Anda dapat dengan mudah mencari buku berdasarkan judul, penulis, genre, atau kata kunci tertentu. Selain itu, kami juga menyediakan fitur rekomendasi personal yang didasarkan pada minat dan preferensi Anda, untuk membantu Anda menemukan buku-buku baru yang mungkin menarik bagi Anda.</p>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 mts-custom-sec-img wow bounceInLeft">
-                <img src="images/features2.png" alt="Custom Image">
+                <img src="{{ asset('login/images/r (1).png') }}" alt="Custom Image">
             </div>
         </div>
     </div>

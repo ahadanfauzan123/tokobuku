@@ -31,6 +31,9 @@
                 <li>
                     <a href="#contact">CONTACT US</a>
                 </li>
+                <li>
+                    <a href="/pages.login">LOGIN</a>
+                </li>
             </ul>
         </div>
         <!-- navbar-collapse end-->
